@@ -1,0 +1,465 @@
+[
+    {
+        "version": "King James Version",
+        "book": "Genesis",
+        "chapter": "5",
+        "verse": "3",
+        "command": "KING JAMES VERSION GENESIS CHAPTER 5 VERSE 3"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Exodus",
+        "chapter": "9",
+        "verse": "2",
+        "command": "STANDARD BIBLE VERSION EXODUS CHAPTER 9 VERSE 2"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Leviticus",
+        "chapter": "12",
+        "verse": "8",
+        "command": "NEW KING JAMES VERSION LEVITICUS CHAPTER 12 VERSE 8"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Numbers",
+        "chapter": "23",
+        "verse": "3",
+        "command": "AMPLIFIED VERSION NUMBERS CHAPTER 23 VERSE 3"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Deuteronomy",
+        "chapter": "3",
+        "verse": "2",
+        "command": "STANDARD BIBLE VERSION DEUTERONOMY CHAPTER 3 VERSE 2"
+    },
+    {
+        "version": "New International Version",
+        "book": "Joshua",
+        "chapter": "9",
+        "verse": "5",
+        "command": "NEW INTERNATIONAL VERSION JOSHUA CHAPTER 9 VERSE 5"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Judges",
+        "chapter": "17",
+        "verse": "10",
+        "command": "STANDARD BIBLE VERSION JUDGES CHAPTER 17 VERSE 10"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Ruth",
+        "chapter": "4",
+        "verse": "3",
+        "command": "STANDARD BIBLE VERSION RUTH CHAPTER 4 VERSE 3"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "First Samuel",
+        "chapter": "8",
+        "verse": "1",
+        "command": "STANDARD BIBLE VERSION FIRST SAMUEL CHAPTER 8 VERSE 1"
+    },
+    {
+        "version": "New International Version",
+        "book": "Second Samuel",
+        "chapter": "13",
+        "verse": "5",
+        "command": "NEW INTERNATIONAL VERSION SECOND SAMUEL CHAPTER 13 VERSE 5"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "First Kings",
+        "chapter": "16",
+        "verse": "1",
+        "command": "AMPLIFIED VERSION FIRST KINGS CHAPTER 16 VERSE 1"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Second Kings",
+        "chapter": "14",
+        "verse": "8",
+        "command": "NEW KING JAMES VERSION SECOND KINGS CHAPTER 14 VERSE 8"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "First Chronicles",
+        "chapter": "22",
+        "verse": "2",
+        "command": "AMPLIFIED VERSION FIRST CHRONICLES CHAPTER 22 VERSE 2"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Second Chronicles",
+        "chapter": "32",
+        "verse": "1",
+        "command": "STANDARD BIBLE VERSION SECOND CHRONICLES CHAPTER 32 VERSE 1"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Ezra",
+        "chapter": "10",
+        "verse": "2",
+        "command": "STANDARD BIBLE VERSION EZRA CHAPTER 10 VERSE 2"
+    },
+    {
+        "version": "New International Version",
+        "book": "Nehemiah",
+        "chapter": "4",
+        "verse": "11",
+        "command": "NEW INTERNATIONAL VERSION NEHEMIAH CHAPTER 4 VERSE 11"
+    },
+    {
+        "version": "Message Version",
+        "book": "Esther",
+        "chapter": "4",
+        "verse": "2",
+        "command": "MESSAGE VERSION ESTHER CHAPTER 4 VERSE 2"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Job",
+        "chapter": "21",
+        "verse": "1",
+        "command": "STANDARD BIBLE VERSION JOB CHAPTER 21 VERSE 1"
+    },
+    {
+        "version": "New International Version",
+        "book": "Psalm",
+        "chapter": "147",
+        "verse": "2",
+        "command": "NEW INTERNATIONAL VERSION PSALM CHAPTER 147 VERSE 2"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Proverbs",
+        "chapter": "30",
+        "verse": "7",
+        "command": "STANDARD BIBLE VERSION PROVERBS CHAPTER 30 VERSE 7"
+    },
+    {
+        "version": "Message Version",
+        "book": "Ecclesiastes",
+        "chapter": "1",
+        "verse": "4",
+        "command": "MESSAGE VERSION ECCLESIASTES CHAPTER 1 VERSE 4"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Song of Solomon",
+        "chapter": "7",
+        "verse": "3",
+        "command": "STANDARD BIBLE VERSION SONG OF SOLOMON CHAPTER 7 VERSE 3"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Isaiah",
+        "chapter": "36",
+        "verse": "2",
+        "command": "STANDARD BIBLE VERSION ISAIAH CHAPTER 36 VERSE 2"
+    },
+    {
+        "version": "King James Version",
+        "book": "Jeremiah",
+        "chapter": "3",
+        "verse": "4",
+        "command": "KING JAMES VERSION JEREMIAH CHAPTER 3 VERSE 4"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Lamentations",
+        "chapter": "1",
+        "verse": "19",
+        "command": "STANDARD BIBLE VERSION LAMENTATIONS CHAPTER 1 VERSE 19"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Ezekiel",
+        "chapter": "4",
+        "verse": "4",
+        "command": "AMPLIFIED VERSION EZEKIEL CHAPTER 4 VERSE 4"
+    },
+    {
+        "version": "New International Version",
+        "book": "Daniel",
+        "chapter": "6",
+        "verse": "6",
+        "command": "NEW INTERNATIONAL VERSION DANIEL CHAPTER 6 VERSE 6"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Hosea",
+        "chapter": "6",
+        "verse": "4",
+        "command": "NEW KING JAMES VERSION HOSEA CHAPTER 6 VERSE 4"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Joel",
+        "chapter": "1",
+        "verse": "18",
+        "command": "STANDARD BIBLE VERSION JOEL CHAPTER 1 VERSE 18"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Amos",
+        "chapter": "6",
+        "verse": "6",
+        "command": "STANDARD BIBLE VERSION AMOS CHAPTER 6 VERSE 6"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Obadiah",
+        "chapter": "1",
+        "verse": "2",
+        "command": "STANDARD BIBLE VERSION OBADIAH CHAPTER 1 VERSE 2"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Jonah",
+        "chapter": "1",
+        "verse": "7",
+        "command": "NEW KING JAMES VERSION JONAH CHAPTER 1 VERSE 7"
+    },
+    {
+        "version": "King James Version",
+        "book": "Micah",
+        "chapter": "5",
+        "verse": "1",
+        "command": "KING JAMES VERSION MICAH CHAPTER 5 VERSE 1"
+    },
+    {
+        "version": "New International Version",
+        "book": "Nahum",
+        "chapter": "3",
+        "verse": "13",
+        "command": "NEW INTERNATIONAL VERSION NAHUM CHAPTER 3 VERSE 13"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Habakkuk",
+        "chapter": "3",
+        "verse": "14",
+        "command": "STANDARD BIBLE VERSION HABAKKUK CHAPTER 3 VERSE 14"
+    },
+    {
+        "version": "Message Version",
+        "book": "Zephaniah",
+        "chapter": "1",
+        "verse": "3",
+        "command": "MESSAGE VERSION ZEPHANIAH CHAPTER 1 VERSE 3"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Haggai",
+        "chapter": "1",
+        "verse": "4",
+        "command": "AMPLIFIED VERSION HAGGAI CHAPTER 1 VERSE 4"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Zechariah",
+        "chapter": "14",
+        "verse": "6",
+        "command": "AMPLIFIED VERSION ZECHARIAH CHAPTER 14 VERSE 6"
+    },
+    {
+        "version": "New International Version",
+        "book": "Malachi",
+        "chapter": "3",
+        "verse": "4",
+        "command": "NEW INTERNATIONAL VERSION MALACHI CHAPTER 3 VERSE 4"
+    },
+    {
+        "version": "Message Version",
+        "book": "Matthew",
+        "chapter": "15",
+        "verse": "17",
+        "command": "MESSAGE VERSION MATTHEW CHAPTER 15 VERSE 17"
+    },
+    {
+        "version": "Message Version",
+        "book": "Mark",
+        "chapter": "4",
+        "verse": "10",
+        "command": "MESSAGE VERSION MARK CHAPTER 4 VERSE 10"
+    },
+    {
+        "version": "Message Version",
+        "book": "Luke",
+        "chapter": "9",
+        "verse": "10",
+        "command": "MESSAGE VERSION LUKE CHAPTER 9 VERSE 10"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "John",
+        "chapter": "12",
+        "verse": "16",
+        "command": "STANDARD BIBLE VERSION JOHN CHAPTER 12 VERSE 16"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Acts",
+        "chapter": "14",
+        "verse": "5",
+        "command": "AMPLIFIED VERSION ACTS CHAPTER 14 VERSE 5"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Romans",
+        "chapter": "8",
+        "verse": "1",
+        "command": "NEW KING JAMES VERSION ROMANS CHAPTER 8 VERSE 1"
+    },
+    {
+        "version": "New International Version",
+        "book": "First Corinthians",
+        "chapter": "7",
+        "verse": "1",
+        "command": "NEW INTERNATIONAL VERSION FIRST CORINTHIANS CHAPTER 7 VERSE 1"
+    },
+    {
+        "version": "New International Version",
+        "book": "Second Corinthians",
+        "chapter": "4",
+        "verse": "11",
+        "command": "NEW INTERNATIONAL VERSION SECOND CORINTHIANS CHAPTER 4 VERSE 11"
+    },
+    {
+        "version": "New International Version",
+        "book": "Galatians",
+        "chapter": "4",
+        "verse": "14",
+        "command": "NEW INTERNATIONAL VERSION GALATIANS CHAPTER 4 VERSE 14"
+    },
+    {
+        "version": "New International Version",
+        "book": "Ephesians",
+        "chapter": "6",
+        "verse": "4",
+        "command": "NEW INTERNATIONAL VERSION EPHESIANS CHAPTER 6 VERSE 4"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Philippians",
+        "chapter": "3",
+        "verse": "8",
+        "command": "STANDARD BIBLE VERSION PHILIPPIANS CHAPTER 3 VERSE 8"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "Colossians",
+        "chapter": "1",
+        "verse": "10",
+        "command": "STANDARD BIBLE VERSION COLOSSIANS CHAPTER 1 VERSE 10"
+    },
+    {
+        "version": "Standard Bible Version",
+        "book": "First Thessalonians",
+        "chapter": "3",
+        "verse": "3",
+        "command": "STANDARD BIBLE VERSION FIRST THESSALONIANS CHAPTER 3 VERSE 3"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Second Thessalonians",
+        "chapter": "1",
+        "verse": "7",
+        "command": "AMPLIFIED VERSION SECOND THESSALONIANS CHAPTER 1 VERSE 7"
+    },
+    {
+        "version": "King James Version",
+        "book": "First Timothy",
+        "chapter": "5",
+        "verse": "7",
+        "command": "KING JAMES VERSION FIRST TIMOTHY CHAPTER 5 VERSE 7"
+    },
+    {
+        "version": "Message Version",
+        "book": "Second Timothy",
+        "chapter": "3",
+        "verse": "7",
+        "command": "MESSAGE VERSION SECOND TIMOTHY CHAPTER 3 VERSE 7"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Titus",
+        "chapter": "3",
+        "verse": "7",
+        "command": "NEW KING JAMES VERSION TITUS CHAPTER 3 VERSE 7"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Philemon",
+        "chapter": "1",
+        "verse": "10",
+        "command": "AMPLIFIED VERSION PHILEMON CHAPTER 1 VERSE 10"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Hebrews",
+        "chapter": "1",
+        "verse": "8",
+        "command": "NEW KING JAMES VERSION HEBREWS CHAPTER 1 VERSE 8"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "James",
+        "chapter": "5",
+        "verse": "1",
+        "command": "AMPLIFIED VERSION JAMES CHAPTER 5 VERSE 1"
+    },
+    {
+        "version": "New King James Version",
+        "book": "First Peter",
+        "chapter": "3",
+        "verse": "14",
+        "command": "NEW KING JAMES VERSION FIRST PETER CHAPTER 3 VERSE 14"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Second Peter",
+        "chapter": "3",
+        "verse": "13",
+        "command": "AMPLIFIED VERSION SECOND PETER CHAPTER 3 VERSE 13"
+    },
+    {
+        "version": "New International Version",
+        "book": "First John",
+        "chapter": "3",
+        "verse": "4",
+        "command": "NEW INTERNATIONAL VERSION FIRST JOHN CHAPTER 3 VERSE 4"
+    },
+    {
+        "version": "New International Version",
+        "book": "Second John",
+        "chapter": "1",
+        "verse": "13",
+        "command": "NEW INTERNATIONAL VERSION SECOND JOHN CHAPTER 1 VERSE 13"
+    },
+    {
+        "version": "New King James Version",
+        "book": "Third John",
+        "chapter": "1",
+        "verse": "9",
+        "command": "NEW KING JAMES VERSION THIRD JOHN CHAPTER 1 VERSE 9"
+    },
+    {
+        "version": "King James Version",
+        "book": "Jude",
+        "chapter": "1",
+        "verse": "7",
+        "command": "KING JAMES VERSION JUDE CHAPTER 1 VERSE 7"
+    },
+    {
+        "version": "Amplified Version",
+        "book": "Revelation",
+        "chapter": "14",
+        "verse": "2",
+        "command": "AMPLIFIED VERSION REVELATION CHAPTER 14 VERSE 2"
+    }
+]
+

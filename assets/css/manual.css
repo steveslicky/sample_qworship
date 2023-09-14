@@ -1,0 +1,29 @@
+#scrollable-dropdown-menu-chapter .tt-menu,
+#scrollable-dropdown-menu-verse .tt-menu,
+#scrollable-dropdown-menu-book .tt-menu {
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.controllIcons {
+  font-size: 25px;
+  padding-left: 0.5%;
+  padding-right: 1%;
+  cursor: pointer;
+  position: relative;
+  top: 3px;
+}
+
+/* customs scrollbar for typeahead suggestions dropdown menu*/
+.tt-menu::-webkit-scrollbar {
+  width: 0.25rem;
+  height: 0.25rem;
+}
+
+.tt-menu::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+.tt-menu::-webkit-scrollbar-thumb {
+  background: #553c9a;
+}

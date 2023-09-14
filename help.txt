@@ -1,0 +1,6 @@
+Standard (ESV) - English standard version
+Amplified - Amplified version
+Kjv     - King James version
+Niv     - New International Version
+Nkjv    - New King James Version
+Msg     - Message bible version

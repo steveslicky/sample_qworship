@@ -1,0 +1,115 @@
+/*changed file*/
+@import url("https://fonts.googleapis.com/css2?family=Muli:wght@300;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: "Muli", sans-serif;
+  min-height: 100vh;
+}
+.input .container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+nav {
+  background: #553c9a;
+  color: #fff;
+  padding: 1rem 0;
+  max-width: 100%;
+  min-width: 100%;
+}
+section.input {
+  padding-top: 100px;
+}
+section h2 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.form-wrap {
+  display: flex;
+  justify-content: center;
+}
+.input-wrap {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+}
+
+input {
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  min-width: 220px;
+  max-width: 400px;
+  outline: none;
+}
+button {
+  background: #553c9a;
+  color: #fff;
+  height: 100%;
+  font-size: 16px;
+  padding: 0 20px;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For mobile phones: */
+  section.data {
+    max-width: 85%;
+    text-align: center;
+  }
+}
+
+.loading {
+  display: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+}
+
+section.data p.def {
+  font-size: 20px;
+  color: #2d3748;
+  line-height: 1.6;
+}
+.suggested {
+  background: #b794f4;
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-top: 5px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#meaning {
+  color: #000;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-top: 5px;
+  display: inline-block;
+  text-align: left;
+}
+.audio {
+  margin-top: 20px;
+}
+
+#input1 {
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+}

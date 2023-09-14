@@ -1,0 +1,1534 @@
+[
+  {
+    "command": "john 3:16",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "john 3:1",
+    "expected": "JOHN CHAPTER 3 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16 King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "King James version John 3:16",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16 KJV",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16 New King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16 NKJV",
+    "expected": "JOHN CHAPTER 3 VERSE 16 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "John Chapter 3 verse 16 King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16 King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John Chapter 3 verse 16 King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16  King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John Chapter 3:16 King James Version ",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3 verse 16 King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "John 3:16 King James Version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 KING JAMES VERSION"
+  },
+  {
+    "command": "show me John 3:16 in the New King James Version ",
+    "expected": "JOHN CHAPTER 3 VERSE 16 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "Lets see John chapter 3 verse 16 NKJV",
+    "expected": "JOHN CHAPTER 3 VERSE 16 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "John chapter 3 verse 16 New King James version",
+    "expected": "JOHN CHAPTER 3 VERSE 16 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "show me verse 17",
+    "expected": "JOHN CHAPTER 3 VERSE 17 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "show me verse 18",
+    "expected": "JOHN CHAPTER 3 VERSE 18 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "show me verse 19",
+    "expected": "JOHN CHAPTER 3 VERSE 19 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "show me verse 23 ",
+    "expected": "JOHN CHAPTER 3 VERSE 23 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "luke 3 King James Version ",
+    "expected": "LUKE CHAPTER 3 KING JAMES VERSION"
+  },
+  {
+    "command": "mark 1:5 KJV",
+    "expected": "MARK CHAPTER 1 VERSE 5 KING JAMES VERSION"
+  },
+  {
+    "command": "mark 1:5 New King James Version",
+    "expected": "MARK CHAPTER 1 VERSE 5 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "mark 1:5 NKJV",
+    "expected": "MARK CHAPTER 1 VERSE 5 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "mark 1:5 Amplified",
+    "expected": "MARK CHAPTER 1 VERSE 5 AMPLIFIED VERSION"
+  },
+  {
+    "command": "mark 1:5 Amplified Version",
+    "expected": "MARK CHAPTER 1 VERSE 5 AMPLIFIED VERSION"
+  },
+  {
+    "command": "mark 1:5 NIV",
+    "expected": "MARK CHAPTER 1 VERSE 5 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "mark 1:5 NIV Version",
+    "expected": "MARK CHAPTER 1 VERSE 5 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "mark 1:5 Message Version",
+    "expected": "MARK CHAPTER 1 VERSE 5 MESSAGE VERSION"
+  },
+  {
+    "command": "mark 1:5 KJV",
+    "expected": "MARK CHAPTER 1 VERSE 5 KING JAMES VERSION"
+  },
+  {
+    "command": "genesis chapter 1 1 new international version",
+    "expected": "GENESIS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "exodus chapter 1 1 new international version",
+    "expected": "EXODUS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "leviticus chapter 1 verse 1 message version",
+    "expected": "LEVITICUS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "numbers 1 1 king james version",
+    "expected": "NUMBERS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "show me verse 2",
+    "expected": "NUMBERS CHAPTER 1 VERSE 2 KING JAMES VERSION"
+  },
+  {
+    "command": "let's go to verse 3",
+    "expected": "NUMBERS CHAPTER 1 VERSE 3 KING JAMES VERSION"
+  },
+  {
+    "command": "take me to verse 4",
+    "expected": "NUMBERS CHAPTER 1 VERSE 4 KING JAMES VERSION"
+  },
+  {
+    "command": "bring up to verse 5",
+    "expected": "NUMBERS CHAPTER 1 VERSE 5 KING JAMES VERSION"
+  },
+  {
+    "command": "john 3 verse 16 NKJV",
+    "expected": "JOHN CHAPTER 3 VERSE 16 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "show me verse 17",
+    "expected": "JOHN CHAPTER 3 VERSE 17 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "let's go to verse 21",
+    "expected": "JOHN CHAPTER 3 VERSE 21 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "take me to verse 23",
+    "expected": "JOHN CHAPTER 3 VERSE 23 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "bring up to verse 27",
+    "expected": "JOHN CHAPTER 3 VERSE 27 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "deuteronomy 1 verse 1 message version",
+    "expected": "DEUTERONOMY CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "joshua 1:1 standard version",
+    "expected": "JOSHUA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "judges 1 1 king james version",
+    "expected": "JUDGES CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "ruth 1:1 amplified version",
+    "expected": "RUTH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first samuel 1 1 king james version",
+    "expected": "FIRST SAMUEL CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second samuel chapter 1 1 standard ",
+    "expected": "SECOND SAMUEL CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first kings 1 verse 1 message version",
+    "expected": "FIRST KINGS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second kings chapter 1 1 new international version",
+    "expected": "SECOND KINGS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "first chronicles chapter 1 standard ",
+    "expected": "FIRST CHRONICLES CHAPTER 1 STANDARD VERSION"
+  },
+  {
+    "command": "second chronicles 1 verse 1 amplified version",
+    "expected": "SECOND CHRONICLES CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "ezra 1 1 standard ",
+    "expected": "EZRA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "nehemiah 1 1 new king james version",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "esther chapter 1 verse 1 king james version",
+    "expected": "ESTHER CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "job chapter 1 amplified ",
+    "expected": "JOB CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "psalm chapter 1 verse 1 new king james version",
+    "expected": "PSALM CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "proverbs chapter 1 1 standard ",
+    "expected": "PROVERBS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "ecclesiastes 1 1 king james version",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "song of solomon 1:1 king james version",
+    "expected": "SONG OF SOLOMON CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "isaiah chapter 1 verse 1 king james version",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "jeremiah 1 verse 1 king james version",
+    "expected": "JEREMIAH CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "lamentations chapter 1 new king james version",
+    "expected": "LAMENTATIONS CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "ezekiel 1 1 amplified ",
+    "expected": "EZEKIEL CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "daniel chapter 1 message ",
+    "expected": "DANIEL CHAPTER 1 MESSAGE VERSION"
+  },
+  {
+    "command": "hosea 1 verse 1 amplified version",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "joel chapter 1 new king james version",
+    "expected": "JOEL CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "amos 1:1 king james version",
+    "expected": "AMOS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "obadiah 1 verse 1 standard version",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "jonah 1:1 amplified version",
+    "expected": "JONAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "micah 1:1 new international version",
+    "expected": "MICAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "nahum chapter 1 1 message ",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "habakkuk chapter 1 new international version",
+    "expected": "HABAKKUK CHAPTER 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "zephaniah chapter 1 new king james version",
+    "expected": "ZEPHANIAH CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "haggai chapter 1 verse 1 amplified version",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "zechariah chapter 1 1 amplified ",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "malachi 1 verse 1 new international version",
+    "expected": "MALACHI CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "matthew chapter 1 1 message ",
+    "expected": "MATTHEW CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "mark chapter 1 1 new king james version",
+    "expected": "MARK CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "luke chapter 1 king james version",
+    "expected": "LUKE CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "john chapter 1 verse 1 new king james version",
+    "expected": "JOHN CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "acts chapter 1 verse 1 standard version",
+    "expected": "ACTS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "romans chapter 1 verse 1 new king james version",
+    "expected": "ROMANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "first corinthians chapter 1 1 message ",
+    "expected": "FIRST CORINTHIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second corinthians 1 verse 1 king james version",
+    "expected": "SECOND CORINTHIANS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "galatians chapter 1 verse 1 new king james version",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "ephesians 1 verse 1 message version",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "philippians 1:1 new international version",
+    "expected": "PHILIPPIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "colossians 1:1 new international version",
+    "expected": "COLOSSIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "first thessalonians chapter 1 1 king james version",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second thessalonians chapter 1 new international version",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "first timothy 1:1 standard version",
+    "expected": "FIRST TIMOTHY CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second timothy chapter 1 verse 1 amplified version",
+    "expected": "SECOND TIMOTHY CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "titus 1:1 king james version",
+    "expected": "TITUS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "philemon chapter 1 1 message ",
+    "expected": "PHILEMON CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "hebrews chapter 1 verse 1 amplified version",
+    "expected": "HEBREWS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "james 1:1 amplified version",
+    "expected": "JAMES CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first peter chapter 1 message ",
+    "expected": "FIRST PETER CHAPTER 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second peter 1:1 new king james version",
+    "expected": "SECOND PETER CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "first john chapter 1 verse 1 message version",
+    "expected": "FIRST JOHN CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second john 1 verse 1 new international version",
+    "expected": "SECOND JOHN CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "third john 1 1 king james version",
+    "expected": "THIRD JOHN CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "jude chapter 1 standard ",
+    "expected": "JUDE CHAPTER 1 STANDARD VERSION"
+  },
+  {
+    "command": "revelation 1 1 amplified ",
+    "expected": "REVELATION CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "genesis chapter 1 verse 1 amplified ",
+    "expected": "GENESIS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "exodus chapter 1 1 nkjv",
+    "expected": "EXODUS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "leviticus chapter 1 verse 1 kjv",
+    "expected": "LEVITICUS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "numbers chapter 1 1 amplified ",
+    "expected": "NUMBERS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "deuteronomy 1:1 amplified ",
+    "expected": "DEUTERONOMY CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "joshua 1 verse 1 amplified ",
+    "expected": "JOSHUA CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "judges chapter 1 amplified ",
+    "expected": "JUDGES CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "ruth 1 1 nkjv",
+    "expected": "RUTH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "first samuel 1:1 kjv",
+    "expected": "FIRST SAMUEL CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second samuel chapter 1 king james version",
+    "expected": "SECOND SAMUEL CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "first kings chapter 1 1 king james version",
+    "expected": "FIRST KINGS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second kings 1 1 amplified ",
+    "expected": "SECOND KINGS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first chronicles chapter 1 nkjv",
+    "expected": "FIRST CHRONICLES CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "second chronicles 1 1 amplified version ",
+    "expected": "SECOND CHRONICLES CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "ezra 1 1 king james version",
+    "expected": "EZRA CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "nehemiah 1:1 new king james version",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "esther chapter 1 new king james version",
+    "expected": "ESTHER CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "job 1 verse 1 nkjv",
+    "expected": "JOB CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "psalm 1 verse 1 amplified version ",
+    "expected": "PSALM CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "proverbs chapter 1 amplified ",
+    "expected": "PROVERBS CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "ecclesiastes chapter 1 new king james version",
+    "expected": "ECCLESIASTES CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "song of solomon 1 1 kjv",
+    "expected": "SONG OF SOLOMON CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "isaiah 1 1 amplified version ",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "jeremiah chapter 1 verse 1 amplified version ",
+    "expected": "JEREMIAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "lamentations chapter 1 amplified version ",
+    "expected": "LAMENTATIONS CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "ezekiel 1 verse 1 nkjv",
+    "expected": "EZEKIEL CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "daniel chapter 1 amplified version ",
+    "expected": "DANIEL CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "hosea chapter 1 nkjv",
+    "expected": "HOSEA CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "joel chapter 1 1 king james version",
+    "expected": "JOEL CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "amos 1 verse 1 king james version",
+    "expected": "AMOS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "obadiah 1:1 nkjv",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "jonah 1 verse 1 nkjv",
+    "expected": "JONAH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "micah 1 1 amplified ",
+    "expected": "MICAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "nahum 1 verse 1 king james version",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "habakkuk 1 1 kjv",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "zephaniah 1 1 amplified ",
+    "expected": "ZEPHANIAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "haggai 1 1 amplified version ",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "zechariah 1 verse 1 new king james version",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "malachi 1:1 nkjv",
+    "expected": "MALACHI CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "matthew chapter 1 1 new king james version",
+    "expected": "MATTHEW CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "mark 1 verse 1 king james version",
+    "expected": "MARK CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "luke 1:1 new king james version",
+    "expected": "LUKE CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "john 1 verse 1 nkjv",
+    "expected": "JOHN CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "acts 1:1 new king james version",
+    "expected": "ACTS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "romans chapter 1 verse 1 amplified version ",
+    "expected": "ROMANS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first corinthians chapter 1 verse 1 kjv",
+    "expected": "FIRST CORINTHIANS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second corinthians 1 verse 1 amplified version ",
+    "expected": "SECOND CORINTHIANS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "galatians chapter 1 1 king james version",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "ephesians chapter 1 1 new king james version",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "philippians 1 1 amplified ",
+    "expected": "PHILIPPIANS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "colossians chapter 1 1 new king james version",
+    "expected": "COLOSSIANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "first thessalonians chapter 1 verse 1 nkjv",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "second thessalonians 1 1 king james version",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "first timothy chapter 1 verse 1 new king james version",
+    "expected": "FIRST TIMOTHY CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "second timothy 1 1 new king james version",
+    "expected": "SECOND TIMOTHY CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "titus chapter 1 kjv",
+    "expected": "TITUS CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "philemon 1 verse 1 nkjv",
+    "expected": "PHILEMON CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "hebrews 1 verse 1 new king james version",
+    "expected": "HEBREWS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "james 1 verse 1 amplified ",
+    "expected": "JAMES CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first peter chapter 1 1 king james version",
+    "expected": "FIRST PETER CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second peter 1:1 amplified ",
+    "expected": "SECOND PETER CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first john 1 1 new king james version",
+    "expected": "FIRST JOHN CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "second john chapter 1 king james version",
+    "expected": "SECOND JOHN CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "third john chapter 1 new king james version",
+    "expected": "THIRD JOHN CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "jude 1 1 amplified ",
+    "expected": "JUDE CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "revelation 1 verse 1 nkjv",
+    "expected": "REVELATION CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "genesis chapter 1 amplified",
+    "expected": "GENESIS CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "exodus 1:1 nkjv",
+    "expected": "EXODUS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "leviticus chapter 1 1 standard",
+    "expected": "LEVITICUS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "numbers chapter 1 kjv",
+    "expected": "NUMBERS CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "deuteronomy 1 1 amplified",
+    "expected": "DEUTERONOMY CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "joshua 1 verse 1 nkjv",
+    "expected": "JOSHUA CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "judges 1 verse 1 kjv",
+    "expected": "JUDGES CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "ruth chapter 1 1 amplified",
+    "expected": "RUTH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first samuel 1:1 nkjv",
+    "expected": "FIRST SAMUEL CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "second samuel 1 1 amplified",
+    "expected": "SECOND SAMUEL CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first kings chapter 1 1 standard",
+    "expected": "FIRST KINGS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second kings 1:1 amplified",
+    "expected": "SECOND KINGS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "first chronicles 1:1 nkjv",
+    "expected": "FIRST CHRONICLES CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "second chronicles 1:1 nkjv",
+    "expected": "SECOND CHRONICLES CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "ezra 1:1 standard",
+    "expected": "EZRA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "nehemiah chapter 1 1 kjv",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "esther chapter 1 verse 1 kjv",
+    "expected": "ESTHER CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "job chapter 1 kjv",
+    "expected": "JOB CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "psalm 1:1 kjv",
+    "expected": "PSALM CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "proverbs chapter 1 verse 1 amplified",
+    "expected": "PROVERBS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "ecclesiastes 1 verse 1 standard",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "song of solomon chapter 1 msg ",
+    "expected": "SONG OF SOLOMON CHAPTER 1 MESSAGE VERSION"
+  },
+  {
+    "command": "isaiah chapter 1 1 amplified",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "jeremiah chapter 1 standard",
+    "expected": "JEREMIAH CHAPTER 1 STANDARD VERSION"
+  },
+  {
+    "command": "lamentations 1:1 niv",
+    "expected": "LAMENTATIONS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "ezekiel chapter 1 1 amplified",
+    "expected": "EZEKIEL CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "daniel chapter 1 verse 1 kjv",
+    "expected": "DANIEL CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "hosea chapter 1 1 niv",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "joel chapter 1 niv",
+    "expected": "JOEL CHAPTER 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "amos 1:1 standard",
+    "expected": "AMOS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "obadiah 1:1 standard",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "jonah 1 1 msg ",
+    "expected": "JONAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "micah chapter 1 verse 1 niv",
+    "expected": "MICAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "nahum 1 1 standard",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "habakkuk 1 1 nkjv",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "zephaniah 1:1 standard",
+    "expected": "ZEPHANIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "haggai chapter 1 verse 1 nkjv",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "zechariah 1:1 nkjv",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "malachi 1 verse 1 niv",
+    "expected": "MALACHI CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "matthew chapter 1 nkjv",
+    "expected": "MATTHEW CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "mark 1:1 kjv",
+    "expected": "MARK CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "luke chapter 1 1 amplified",
+    "expected": "LUKE CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "john chapter 1 1 nkjv",
+    "expected": "JOHN CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "acts 1 verse 1 amplified",
+    "expected": "ACTS CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "romans chapter 1 standard",
+    "expected": "ROMANS CHAPTER 1 STANDARD VERSION"
+  },
+  {
+    "command": "first corinthians 1:1 standard",
+    "expected": "FIRST CORINTHIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second corinthians chapter 1 1 msg ",
+    "expected": "SECOND CORINTHIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "galatians 1 1 niv",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "ephesians 1:1 niv",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "philippians chapter 1 verse 1 standard",
+    "expected": "PHILIPPIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "colossians chapter 1 1 msg ",
+    "expected": "COLOSSIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "first thessalonians 1 verse 1 niv",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "second thessalonians chapter 1 msg ",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 MESSAGE VERSION"
+  },
+  {
+    "command": "first timothy chapter 1 1 kjv",
+    "expected": "FIRST TIMOTHY CHAPTER 1 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second timothy chapter 1 verse 1 niv",
+    "expected": "SECOND TIMOTHY CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "titus chapter 1 1 standard",
+    "expected": "TITUS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "philemon 1 1 nkjv",
+    "expected": "PHILEMON CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "hebrews chapter 1 nkjv",
+    "expected": "HEBREWS CHAPTER 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "james 1 1 niv",
+    "expected": "JAMES CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "first peter 1:1 msg ",
+    "expected": "FIRST PETER CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second peter 1:1 nkjv",
+    "expected": "SECOND PETER CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "first john chapter 1 1 niv",
+    "expected": "FIRST JOHN CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "second john chapter 1 amplified",
+    "expected": "SECOND JOHN CHAPTER 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "third john 1 verse 1 standard",
+    "expected": "THIRD JOHN CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "jude 1 1 niv",
+    "expected": "JUDE CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "revelation 1:1 amplified",
+    "expected": "REVELATION CHAPTER 1 VERSE 1 AMPLIFIED VERSION"
+  },
+  {
+    "command": "Daniel 2 verse to message",
+    "expected": "DANIEL CHAPTER 2 VERSE 2 MESSAGE VERSION"
+  },
+  {
+    "command": "second Peter to",
+    "expected": "SECOND PETER CHAPTER 2 KING JAMES VERSION"
+  },
+  {
+    "command": "Titus Chapter 1 verse to Message",
+    "expected": "TITUS CHAPTER 1 VERSE 2 MESSAGE VERSION"
+  },
+  {
+    "command": "phylum on 1 verse to",
+    "expected": "PHILEMON CHAPTER 1 VERSE 2 KING JAMES VERSION"
+  },
+  {
+    "command": "asra 1 verse to msg",
+    "expected": "EZRA CHAPTER 1 VERSE 2 MESSAGE VERSION"
+  },
+  {
+    "command": "show me verse 4",
+    "expected": "EZRA CHAPTER 1 VERSE 4 MESSAGE VERSION"
+  },
+  {
+    "command": "bring up to verse 1",
+    "expected": "EZRA CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "let's go to verse 3",
+    "expected": "EZRA CHAPTER 1 VERSE 3 MESSAGE VERSION"
+  },
+  {
+    "command": "take me to verse to",
+    "expected": "EZRA CHAPTER 1 VERSE 2 MESSAGE VERSION"
+  },
+  {
+    "command": "ephesians 1:1 standard",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "efisians 1:1 standard",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Efishens 1 1 msg ",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Efeshens chapter 1 verse 1 niv",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Efishance 1 1 standard",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Efficient 1 1 nkjv",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "Efficience 1 1 nkjv",
+    "expected": "EPHESIANS CHAPTER 1 VERSE 1 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "nehemiah 1:1 standard",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Nehimiah 1:1 standard",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Nehimia 1 1 msg ",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Nehemaya chapter 1 verse 1 niv",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Nehimaya 1 1 standard",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "psalms 1:1 standard",
+    "expected": "PSALM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "psalm 1:1 standard",
+    "expected": "PSALM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "sam's 1 1 msg ",
+    "expected": "PSALM CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "some chapter 1 verse 1 niv",
+    "expected": "PSALM CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Salms 1 1 standard",
+    "expected": "PSALM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Salm 1:1 standard",
+    "expected": "PSALM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Sams 1:1 standard",
+    "expected": "PSALM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Sam 1 1 msg ",
+    "expected": "PSALM CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "proverbs 1:1 standard",
+    "expected": "PROVERBS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Proverb 1:1 standard",
+    "expected": "PROVERBS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Provabs 1 1 msg ",
+    "expected": "PROVERBS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Ecclesiastics chapter 1 verse 1 niv",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "ecclesiastes 1 1 standard",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Ecclesiastis 1:1 standard",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Ecclesiasticus 1:1 standard",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Ecclisiastis 1 1 msg ",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Ecclesiastic 1 1 msg ",
+    "expected": "ECCLESIASTES CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Hezekiah 1:1 standard",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "isaiah 1:1 standard",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Isaya 1 1 msg ",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Isia chapter 1 verse 1 niv",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Izaya 1 1 standard",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Hezaya 1:1 standard",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Hezia 1:1 standard",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Izia 1 1 msg ",
+    "expected": "ISAIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Hoosier 1:1 standard",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Josiah 1:1 standard",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "hosea 1 1 msg ",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Hozia chapter 1 verse 1 niv",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Hosia 1 1 standard",
+    "expected": "HOSEA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Juwel 1:1 standard",
+    "expected": "JOEL CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Jowel 1:1 standard",
+    "expected": "JOEL CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Jewel 1 1 msg ",
+    "expected": "JOEL CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Jwel chapter 1 verse 1 niv",
+    "expected": "JOEL CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "amos 1:1 standard",
+    "expected": "AMOS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Emos 1:1 standard",
+    "expected": "AMOS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "obadiah 1:1 standard",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Obidaya 1:1 standard",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Obidia 1 1 msg ",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Obedaya chapter 1 verse 1 niv",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Obedia 1 1 standard",
+    "expected": "OBADIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "micah 1:1 standard",
+    "expected": "MICAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Mica 1:1 standard",
+    "expected": "MICAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Myca 1 1 msg ",
+    "expected": "MICAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "nahum 1:1 standard",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Nahom 1:1 standard",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Naehom 1 1 msg ",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Naehum chapter 1 verse 1 niv",
+    "expected": "NAHUM CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "habakkuk 1:1 standard",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Habakok 1:1 standard",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Habakuk 1 1 msg ",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Haebakuk chapter 1 verse 1 niv",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Haebakok 1 1 standard",
+    "expected": "HABAKKUK CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "zephaniah 1:1 standard",
+    "expected": "ZEPHANIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Zafania 1:1 standard",
+    "expected": "ZEPHANIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Zefanaya 1 1 msg ",
+    "expected": "ZEPHANIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Zefinaya chapter 1 verse 1 niv",
+    "expected": "ZEPHANIAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "haggai 1:1 standard",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Hagi 1:1 standard",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Haegai 1 1 msg ",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Haegi chapter 1 verse 1 niv",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Hegai 1 1 standard",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Hegi 1:1 standard",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Hey guy 1:1 standard",
+    "expected": "HAGGAI CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "zechariah 1:1 standard",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Zakaraya 1:1 standard",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Zakariya 1 1 msg ",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Zakaria chapter 1 verse 1 niv",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Zechariya 1 1 standard",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Zachariah 1:1 standard",
+    "expected": "ZECHARIAH CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "malachi 1:1 standard",
+    "expected": "MALACHI CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Malakai 1 1 msg ",
+    "expected": "MALACHI CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "first corinthians 1:1 standard",
+    "expected": "FIRST CORINTHIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first Corintians 1:1 standard",
+    "expected": "FIRST CORINTHIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second corinthians 1 1 msg ",
+    "expected": "SECOND CORINTHIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second Corintians chapter 1 verse 1 niv",
+    "expected": "SECOND CORINTHIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "galatians 1:1 standard",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Galeshians 1:1 standard",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Galeshans 1 1 msg ",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Galeashians chapter 1 verse 1 niv",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Galashians 1 1 standard",
+    "expected": "GALATIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "colossians 1:1 standard",
+    "expected": "COLOSSIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Coloshians 1:1 standard",
+    "expected": "COLOSSIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Coloshans 1 1 msg ",
+    "expected": "COLOSSIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "hebrews chapter 1 verse 1 niv",
+    "expected": "HEBREWS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Hibrus 1 1 standard",
+    "expected": "HEBREWS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Hebrew 1:1 standard",
+    "expected": "HEBREWS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "ezra 1:1 standard",
+    "expected": "EZRA CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "asra 1 1 msg ",
+    "expected": "EZRA CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "philemon 1:1 standard",
+    "expected": "PHILEMON CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Phylum on 1:1 standard",
+    "expected": "PHILEMON CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Acts of the Apostles 1 1 msg ",
+    "expected": "ACTS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "Arts of the Apostles chapter 1 verse 1 niv",
+    "expected": "ACTS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "At of the Apostles 1 1 standard",
+    "expected": "ACTS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "Art of the Apostles 1:1 standard",
+    "expected": "ACTS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first thessalonians 1:1 standard",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first Tesalonians 1:1 standard",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first Thesalonians 1 1 msg ",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "first Teselonians chapter 1 verse 1 niv",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "first Theselonnians 1 1 standard",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first Theselonians 1:1 standard",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second thessalonians 1:1 standard",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second Tesalonians 1:1 standard",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second Thesalonians 1 1 msg ",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second Teselonians chapter 1 verse 1 niv",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "second Theselonnians 1 1 standard",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second Theselonians 1:1 standard",
+    "expected": "SECOND THESSALONIANS CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first timothy 1:1 standard",
+    "expected": "FIRST TIMOTHY CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "first Timoty 1:1 standard",
+    "expected": "FIRST TIMOTHY CHAPTER 1 VERSE 1 STANDARD VERSION"
+  },
+  {
+    "command": "second timothy 1 1 msg ",
+    "expected": "SECOND TIMOTHY CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "second Timoty chapter 1 verse 1 niv",
+    "expected": "SECOND TIMOTHY CHAPTER 1 VERSE 1 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Ne hi Maya chapter 1 verse to nkjv",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 2 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "nehemia 1 1 msg",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 1 MESSAGE VERSION"
+  },
+  {
+    "command": "hey guys 1 2 niv",
+    "expected": "HAGGAI CHAPTER 1 VERSE 2 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "First test loan ians 1",
+    "expected": "FIRST THESSALONIANS CHAPTER 1 KING JAMES VERSION"
+  },
+  {
+    "command": "niv Second test loan in 2",
+    "expected": "SECOND THESSALONIANS CHAPTER 2 NEW INTERNATIONAL VERSION"
+  },
+  {
+    "command": "Second Tehsil onions 2",
+    "expected": "SECOND THESSALONIANS CHAPTER 2 KING JAMES VERSION"
+  },
+  {
+    "command": "Hosier 1 2 nkjv",
+    "expected": "HOSEA CHAPTER 1 VERSE 2 NEW KING JAMES VERSION"
+  },
+  {
+    "command": "Nahin Miya chapter 1 verse 2",
+    "expected": "NEHEMIAH CHAPTER 1 VERSE 2 KING JAMES VERSION"
+  },
+  {
+    "command": "Havoc chapter 2 verse 1",
+    "expected": "HABAKKUK CHAPTER 2 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second Peete chapter 2",
+    "expected": "SECOND PETER CHAPTER 2 KING JAMES VERSION"
+  },
+  {
+    "command": "second Peete 3",
+    "expected": "SECOND PETER CHAPTER 3 KING JAMES VERSION"
+  },
+  {
+    "command": "second Peete chapter 2 verse 1",
+    "expected": "SECOND PETER CHAPTER 2 VERSE 1 KING JAMES VERSION"
+  },
+  {
+    "command": "second Peete chapter 3 verse 2",
+    "expected": "SECOND PETER CHAPTER 3 VERSE 2 KING JAMES VERSION"
+  }
+]

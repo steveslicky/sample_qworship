@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- changed file -->
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="HandheldFriendly" content="true" />
+  <title>Speech To Text</title>
+  <link rel="stylesheet" href="./assets/css/style.css" />
+  <link rel="stylesheet" href="./assets/css/manual.css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+</head>
+
+<body>
+  <nav>
+    <div class="col-sm-12">
+      <h1>eWorship</h1>
+    </div>
+  </nav>
+
+  <div class="col-sm-12">
+    <section>
+      <h2>Find any chapter, verse and words in the Bible</h2>
+
+      <div class="container mx-auto " id="manual">
+        <div class="d-flex justify-content-between">
+          <div class="col-sm ">
+            <div class="form-wrap" id="formWrap">
+              <div class="input-wrap">
+                <input type="text" placeholder="Type a word" id="input" value="">
+                <button id="search">Search</button> </br>
+              </div>
+            </div>
+          </div>
+
+          <div class="d-flex justify-content-between mt-4 mx-auto flex-column flex-sm-row">
+            <div id="scrollable-dropdown-menu-version" class="mx-2 mt-2">
+              <input class="typeahead form-control form-control-sm" id="typeahead-version" type="text"
+                placeholder="Version">
+            </div>
+            <div id="scrollable-dropdown-menu-book" class="mx-2 mt-2">
+              <input class="typeahead form-control form-control-sm d-none" id="typeahead-book" type="text"
+                placeholder="Book">
+            </div>
+            <div id="scrollable-dropdown-menu-chapter" class="mx-2 mt-2 container">
+              <input class="typeahead form-control form-control-sm d-none col-6 col-sm-6 col-md-6" id="typeahead-chapter" type="text"
+                placeholder="Chapter">
+            </div>
+            <div id="scrollable-dropdown-menu-verse" class="mx-2 mt-2">
+              <input class="typeahead form-control form-control-sm d-none" id="typeahead-verse" type="text"
+                placeholder="Verse">
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </div>
+
+
+
+  <section class="words_Meaning">
+    <div>
+      <h1 id="meaning"></h1>
+    </div>
+  </section>
+
+  <section class="data container mb-4 text-center">
+    <span> <img class="loading" id="loading" src="assets/img/loader.gif"></span>
+    <div class="not-found" id="notFound">No result found for - <b id="notFoundText"></b></div>
+    <div id="wordsAndMeaning"></div>
+  </section>
+
+  <script src="./assets/config/config.js"></script>
+  <script src="./assets/js/app.js"></script>
+  <script src="https://twitter.github.io/typeahead.js/js/jquery-1.10.2.min.js"></script>
+  <script src="./assets/js/typeahead.min.js"></script>
+  <script src="./assets/js/manual.js"></script>
+  <script src="./assets/books/amplified.js"></script>
+  <script src="./assets/books/esv.js"></script>
+  <script src="./assets/books/niv.js"></script>
+  <script src="./assets/books/nkjv.js"></script>
+  <script src="./assets/books/kingjames.js"></script>
+  <script src="./assets/books/msg.js"></script>
+</body>
+
+</html>
